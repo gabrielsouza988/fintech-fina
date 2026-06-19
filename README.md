@@ -1,9 +1,9 @@
 # Fina - Dashboard Fintech
 
-Projeto individual FIAP - Fase 04.
+Projeto FIAP - Fase 04.
 
 ## Tela desenvolvida
-Dashboard financeiro do sistema Fina, baseado na interface enviada pelo aluno.
+Dashboard financeiro do sistema Fina.
 
 ## Tecnologias
 - HTML5
